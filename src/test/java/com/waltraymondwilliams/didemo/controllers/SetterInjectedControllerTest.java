@@ -1,6 +1,6 @@
 package com.waltraymondwilliams.didemo.controllers;
 
-import com.waltraymondwilliams.didemo.GreetingServiceImpl;
+import com.waltraymondwilliams.didemo.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

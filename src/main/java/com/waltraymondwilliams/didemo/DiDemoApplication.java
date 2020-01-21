@@ -21,7 +21,6 @@ public class DiDemoApplication {
         System.out.println(ctx.getBean(SetterInjectedController.class).sayHello());
         System.out.println(ctx.getBean(ConstructorInjectedController.class).sayHello());
 
-        System.out.println("test");
     }
 
 }

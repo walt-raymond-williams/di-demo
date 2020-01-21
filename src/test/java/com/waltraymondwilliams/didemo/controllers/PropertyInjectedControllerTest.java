@@ -1,7 +1,7 @@
 package com.waltraymondwilliams.didemo.controllers;
 
 import org.junit.Test;
-import com.waltraymondwilliams.didemo.GreetingServiceImpl;
+import com.waltraymondwilliams.didemo.services.GreetingServiceImpl;
 import org.junit.Before;
 
 import static org.junit.Assert.assertEquals;

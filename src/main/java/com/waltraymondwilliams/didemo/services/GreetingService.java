@@ -1,4 +1,4 @@
-package com.waltraymondwilliams.didemo;
+package com.waltraymondwilliams.didemo.services;
 
 public interface GreetingService {
 
